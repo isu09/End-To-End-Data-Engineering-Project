@@ -23,3 +23,6 @@ In this groundbreaking AWS Data Engineering series, we delve into the intricacie
 
 7. **Advanced Concepts and Future Trends:**
    Explore advanced concepts and emerging trends in AWS Data Engineering. Stay ahead of the curve by understanding the latest technologies and their potential impact on data engineering practices.
+
+
+![image](https://github.com/user-attachments/assets/9e2c968d-b787-40f2-ab2c-93f56a790df9)
